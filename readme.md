@@ -5,7 +5,7 @@
 <br>Jurusan     	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-    Program array 2 dimensi C++ yang Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
+    Program array 2 dimensi C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
   Algoritma pemrograman: 
   1. User akan menginputkan jumlah baris dan kolom pada matriks 
   2. User akan menginputkan nilai yang akan dimasukkan pada matriks.
