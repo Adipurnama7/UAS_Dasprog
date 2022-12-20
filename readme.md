@@ -10,7 +10,7 @@
   1. User akan menginputkan jumlah baris dan kolom pada matriks 
   2. User akan menginputkan nilai yang akan dimasukkan pada matriks.
   3. Nilai akan ditampilkan sesuai matriks.
-  4. Nilai yang sudah dirubah akan ditampilkan dari baris menjadi kolom, kolom menjadi baris.
+  4. Akan ditampilkan nilai baris yang sudah diubah dari baris menjadi kolom, kolom menjadi baris.
 ## Source Code
 
 ````C++
@@ -71,3 +71,4 @@ int main()
 }```
 
 ## Output
+
