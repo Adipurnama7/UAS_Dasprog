@@ -12,7 +12,9 @@
   3. Nilai akan ditampilkan sesuai matriks.
   4. Nilai yang sudah dirubah akan ditampilkan dari baris menjadi kolom, kolom menjadi baris.
 ## Source Code
-  #include <iostream>
+
+````C++
+#include <iostream>
  
 using namespace std;
 
@@ -66,5 +68,6 @@ int main()
  	cout<<endl;
 	}
   return 0;
-}  
+}```
+
 ## Output
