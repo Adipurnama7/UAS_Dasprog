@@ -10,7 +10,7 @@
 ## Source Code
 
 ````C++
-//1. input banyaknya baris dan kolom array dimensi 2, isi dengan nilai, stelah di isi di ubah baris menjadi kolom, kolom menjadi baris
+//1.Program array 2 dimensi, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
 #include <iostream>
  
 using namespace std;
@@ -68,8 +68,7 @@ int main()
 }
 
 
-//2. deret matematika bilangan yang tidak habis dibagi 3, 5, 7, input baris pertama merupakan banyaknya baris (0-20)
-     baris kedua merupakan banyaknya kolom.
+//2. Deret matematika bilangan yang tidak habis dibagi 3, 5, 7 
 #include <iostream>
 using namespace std;
   
