@@ -68,7 +68,8 @@ int main()
 }
 
 
-//2. deret matematika bilangan yang tidak habis dibagi 3, 5, 7, input baris pertama merupakan banyaknya baris (0-20) baris kedua merupakan banyaknya kolom.
+//2. deret matematika bilangan yang tidak habis dibagi 3, 5, 7, input baris pertama merupakan banyaknya baris (0-20)
+     baris kedua merupakan banyaknya kolom.
 #include <iostream>
 using namespace std;
   
