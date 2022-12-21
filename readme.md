@@ -118,5 +118,4 @@ int main(){
 }```
 
 ## Output
-![Screenshot (42)](https://user-images.githubusercontent.com/121074868/208883567-a15a92a1-a62a-4703-b0f6-205fdda875fb.png)
-
+![Screenshot (42)](https://user-images.githubusercontent.com/121074868/208886759-b3478416-16cc-41cb-a8c1-cbb771c5a3d7.png)
