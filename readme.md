@@ -5,8 +5,8 @@
 <br>Jurusan     	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-    Program array C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris. dan
-    Program Array deret aritmatika yang tidak habis dibagi 3, 5, 7 
+    Program C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris. dan
+    Program C++, Membuat deret aritmatika yang tidak habis dibagi 3, 5, 7 
 ## Source Code
 
 ```C++
