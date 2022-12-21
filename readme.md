@@ -9,7 +9,7 @@
     Program Array deret aritmatika yang tidak bisa dibagi 3, 5, 7 
 ## Source Code
 
-````C++
+```C++
 //1.Program array 2 dimensi, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
 #include <iostream>
  
@@ -115,7 +115,8 @@ int main(){
 			}
 		}
 	}
-}```
+}
+```
 
 ## Output
 
