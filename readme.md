@@ -5,7 +5,7 @@
 <br>Jurusan     	:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-    Program array 2 dimensi C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris. dan
+    Program array C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris. dan
     Program Array deret aritmatika yang tidak habis dibagi 3, 5, 7 
 ## Source Code
 
@@ -119,7 +119,7 @@ int main(){
 ```
 
 ## Output
-1. Output  Program array 2 dimensi C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
+1. Output  Program array C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
 ![UAS1](https://user-images.githubusercontent.com/121074868/208888641-4c9fbaf2-a8a6-4126-bae3-5aedeb09344a.PNG)
 
 2. Program Array deret aritmatika yang tidak habis dibagi 3, 5, 7.
