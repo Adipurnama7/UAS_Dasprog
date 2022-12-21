@@ -6,7 +6,7 @@
 
 ## Deskripsi Umum
     Program array 2 dimensi C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris. dan
-    Program Array deret aritmatika yang tidak bisa dibagi 3, 5, 7 
+    Program Array deret aritmatika yang tidak habis dibagi 3, 5, 7 
 ## Source Code
 
 ```C++
@@ -122,7 +122,7 @@ int main(){
 1. Output  Program array 2 dimensi C++, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
 ![UAS1](https://user-images.githubusercontent.com/121074868/208888641-4c9fbaf2-a8a6-4126-bae3-5aedeb09344a.PNG)
 
-2. Program Array deret aritmatika yang tidak bisa dibagi 3, 5, 7.
+2. Program Array deret aritmatika yang tidak habis dibagi 3, 5, 7.
 ![UAS2](https://user-images.githubusercontent.com/121074868/208888675-d933de56-28b1-4d1d-98b0-c2820ae2ebb1.PNG)
 
 
