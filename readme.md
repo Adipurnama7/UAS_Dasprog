@@ -67,7 +67,7 @@ int main()
   return 0;
 }
 ```
-
+```cpp
 //2. Deret matematika bilangan yang tidak habis dibagi 3, 5, 7 
 #include <iostream>
 using namespace std;
