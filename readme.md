@@ -9,7 +9,7 @@
     Program C++, Membuat deret aritmatika yang tidak habis dibagi 3, 5, 7 
 ## Source Code
 
-```C++
+```cpp
 //1.Program array 2 dimensi, Membuat matriks dan merubah letak dan nilai baris menjadi kolom,kolom menjadi baris.
 #include <iostream>
  
@@ -66,7 +66,7 @@ int main()
 	}
   return 0;
 }
-
+```
 
 //2. Deret matematika bilangan yang tidak habis dibagi 3, 5, 7 
 #include <iostream>
